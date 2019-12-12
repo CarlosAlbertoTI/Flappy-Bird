@@ -2,7 +2,7 @@
 
 ## Made using JS
 
-<img src="./imgs/jogo.png" align="left" height="80">
+<img src="./imgs/jogo.png" align="left" height="100">
 
 ### The file flappy.js contains how the game works
 #### It´s split into nine functions:
